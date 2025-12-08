@@ -91,19 +91,30 @@ In a all black background a knife closer to the top of the image has a clearish 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **My prompt:** 
+In a all black background a knife closer to the top of the image has a clearish red liquid dripping down into a puddle, but in the puddle inside the puddle image of a white rubber mask resembling a ghost with an anguished expression., but it is tinted red. THERE IS NOT MASK ON TOP ONLY IN THE PUDDLE OF BLOOD and a small sillhouete of a person is falling into the blood
+ 
+- **What worked:**  There is a mask in the pool of blood
+- **What didn't work:**  there is a mask outside as well and there is no person falling
+- **What I'll change for next attempt:**  Get ride of the mask and just make a person falling
 
 **Attempt 4:**  
 - **My prompt:**  
+In a all black background a knife closer to the top of the image has a clearish red liquid dripping down into a puddle, and a small silhouette of a person in the middle of the image is falling into the blood
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:** There is no mask and theres a person  
+- **What didn't work:**  the person is just standing in the puddle rather than falling
+- **What I'll change for next attempt:** 
+make the person fall
+**Attempt 5:**  
+- **My prompt:** 
+In a all black background a knife closer to the top of the image has a clearish red liquid dripping down into a puddle, and a small silhouette of a person in the middle of the image is falling no standing like silhouette of the person who has fallen from some where high and is not yet in the blood but is falling into the puddle of red liquid 
+
+- **What worked:** There a pool of blood and its dripping from a knife, and the person looks afraid 
+- **What didn't work:**  the person is still just standing rather than falling
 
 **Final AI Image Selected:** (Which attempt? Why?)  
-
+5 because it the most acturate to what i want and while it might not be falling it still works out fine
 ---
 
 ## Step 4: Photoshop Modifications
