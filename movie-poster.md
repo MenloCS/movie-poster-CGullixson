@@ -30,26 +30,26 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title:** Scream
+- **Why I chose this movie:** Classic horror with a suspencful plot and a lot of room to work with
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
 - **Core emotion:**  
-
+Fear
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:** Knife dripping with blood and with in the blood is the Ghostface mask 
+- **Why this element:** So it add suspence and giving a scary vibe in the poster, 
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:** Happy things or joyful colors 
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):** Black & red
+- **Accent color(s):**  white
+- **Overall mood:** (warm/cool/muted/vibrant/dark/bright) Very dark
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
