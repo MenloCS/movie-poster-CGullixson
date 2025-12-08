@@ -59,7 +59,7 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 - [ ] Character collage  
 
 - **Focal point description:**  
-
+ onto a small person in the middle
 ---
 
 ## Step 2: AI Generation – First Attempts
@@ -70,16 +70,18 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 **Attempt 1:**  
 - **My prompt:**  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+A knife closer to the top of the image dripping down with red liquid, and reflecting the blood, and not escaping the bloods outline is a ghostface mask, which is tinted red. Below the liquid which is dripping onto a small silhouttte in a spotlight
 
+- **What worked:** there is a mask, knife and blood
+- **What didn't work:**  the blood is dripping onto the mask rather than being a reflection seen within the blood, and there is no person
+- **What I'll change for next attempt:**  
+make the mask be with in the blood
 **Attempt 2:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+In a all black background a knife closer to the top of the image has a clearish red liquid dripping down into a puddle, but there is a lot of blood dripping and inside the blood is a reflecting image of a white rubber mask resembling a ghost with an anguished expression., but it is tinted red. In the puddle of blood there is a small silhouette of a person
+- **What worked:**  Theres a pool of blood and the knift is in the correct spot
+- **What didn't work:** the mask is still to big and is outside the blood line  
+- **What I'll change for next attempt:**  im going to make the mask inside the pool of blood and have a person falling into it.
 
 ---
 
@@ -90,7 +92,6 @@ Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
 - **My prompt:**  
-
 - **What worked:**  
 - **What didn't work:**  
 - **What I'll change for next attempt:**  
